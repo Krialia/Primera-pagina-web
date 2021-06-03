@@ -1,28 +1,28 @@
 @font-face{
     font-family: "nevis";
-    src: url("recursos-maquetacion-1-master-css-victor-robles/fonts/nevis.eot");
-    src: url("recursos-maquetacion-1-master-css-victor-robles/fonts/nevis.eot?#iefix") format("embedded-opentype"),
-        url("recursos-maquetacion-1-master-css-victor-robles/fonts/nevis.woff") format("woff"),
-        url("recursos-maquetacion-1-master-css-victor-robles/fonts/nevis.ttf") format("truetype"),
-        url("recursos-maquetacion-1-master-css-victor-robles/fonts/nevis.svg") format("svg");
+    src: url("recursos-maquetacion/fonts/nevis.eot");
+    src: url("recursos-maquetacion/fonts/nevis.eot?#iefix") format("embedded-opentype"),
+        url("recursos-maquetacion/fonts/nevis.woff") format("woff"),
+        url("recursos-maquetacion/fonts/nevis.ttf") format("truetype"),
+        url("recursos-maquetacion/fonts/nevis.svg") format("svg");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face{
     font-family: "fajala";
-    src: url("recursos-maquetacion-1-master-css-victor-robles/fonts/FjallaOne-Regular.ttf") format('truetype');
+    src: url("recursos-maquetacion/fonts/FjallaOne-Regular.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face{
     font-family: "icons";
-    src: url("recursos-maquetacion-1-master-css-victor-robles/fonts/websymbols-regular-webfont.svg#WebSymbolsRegular") format('svg'),
-        url("recursos-maquetacion-1-master-css-victor-robles/fonts/websymbols-regular-webfont.eot");
-    src: url("recursos-maquetacion-1-master-css-victor-robles/fonts/websymbols-regular-webfont.eot?#iefix") format("embedded-opentype"), 
-        url("recursos-maquetacion-1-master-css-victor-robles/fonts/websymbols-regular-webfont.woff") format("woff"),
-        url("recursos-maquetacion-1-master-css-victor-robles/fonts/websymbols-regular-webfont.ttf") format("truetype");
+    src: url("recursos-maquetacion/fonts/websymbols-regular-webfont.svg#WebSymbolsRegular") format('svg'),
+        url("recursos-maquetacion/fonts/websymbols-regular-webfont.eot");
+    src: url("recursos-maquetacion/fonts/websymbols-regular-webfont.eot?#iefix") format("embedded-opentype"), 
+        url("recursos-maquetacion/fonts/websymbols-regular-webfont.woff") format("woff"),
+        url("recursos-maquetacion/fonts/websymbols-regular-webfont.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
@@ -34,7 +34,7 @@
 }
 
 body{
-    background-image: url("recursos-maquetacion-1-master-css-victor-robles/img/paven.png");
+    background-image: url("recursos-maquetacion/img/paven.png");
 }
 
 a{
